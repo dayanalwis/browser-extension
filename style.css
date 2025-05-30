@@ -218,7 +218,6 @@ input:checked + .slider:before {
 }
 
 .attribution {
-    border: 1px solid red;
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
